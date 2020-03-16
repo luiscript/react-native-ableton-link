@@ -1,23 +1,28 @@
 {
   "name": "react-native-ableton-link",
   "title": "React Native Ableton Link",
-  "version": "1.0.0",
-  "description": "TODO",
+  "version": "0.0.1",
+  "description": "React Native support for Ableton Link",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/github_account/react-native-ableton-link.git",
-    "baseUrl": "https://github.com/github_account/react-native-ableton-link"
+    "url": "git+https://github.com/luiscript/react-native-ableton-link.git",
+    "baseUrl": "https://github.com/luiscript/react-native-ableton-link"
   },
   "keywords": [
-    "react-native"
+    "react-native",
+    "ableton",
+    "link",
+    "android",
+    "iOS",
+    "module"
   ],
   "author": {
-    "name": "Your Name",
-    "email": "yourname@email.com"
+    "name": "Luis Fernando García Pérez",
+    "email": "contacto@luiscript.com"
   },
   "license": "MIT",
   "licenseFilename": "LICENSE",
